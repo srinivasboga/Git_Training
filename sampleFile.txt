@@ -1,2 +1,2 @@
 This is Stash Lecturer, in Main File
-This is stash lect in main file
+This is stash lect in main file.
